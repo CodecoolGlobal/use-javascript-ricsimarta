@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "name": {
+      "first": "",
+      "middle": "",
+      "last": ""
+    },
+    "email": "",
+    "shipping": {
+      "country": "",
+      "zip": "",
+      "city": "",
+      "address": ""
+    },
+    "invoice": {
+      "country": "",
+      "zip": "",
+      "city": "",
+      "address": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Jakab",
+      "middle": "",
+      "last": "Gipsz"
+    },
+    "email": "gipsz@jakab.com",
+    "shipping": {
+      "country": "Hungary",
+      "zip": "1200",
+      "city": "Budapest",
+      "address": "Buda u. 11"
+    },
+    "invoice": {
+      "country": "Hungary",
+      "zip": "1200",
+      "city": "Budapest",
+      "address": "Buda u. 11"
+    },
+    "id": 1
+  },
+  {
+    "name": {
+      "first": "John",
+      "middle": "",
+      "last": "Doe"
+    },
+    "email": "john@doe.com",
+    "shipping": {
+      "country": "Hungary",
+      "zip": "1200",
+      "city": "Budapest",
+      "address": "Buda u. 11"
+    },
+    "invoice": {
+      "country": "Hungary",
+      "zip": "1200",
+      "city": "Budapest",
+      "address": "Buda u. 11"
+    },
+    "id": 2
+  },
+  {
+    "name": {
+      "first": "Cool",
+      "middle": "",
+      "last": "Code"
+    },
+    "email": "codecool@codecool.com",
+    "shipping": {
+      "country": "Hungary",
+      "zip": "1200",
+      "city": "Budapest",
+      "address": "Buda u. 11"
+    },
+    "invoice": {
+      "country": "Hungary",
+      "zip": "1200",
+      "city": "Budapest",
+      "address": "Buda u. 11"
+    },
+    "id": 3
+  }
+]

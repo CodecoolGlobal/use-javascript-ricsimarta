@@ -1,0 +1,18 @@
+.dropdown span {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.dropdown ul {
+	display: none;
+	list-style-type: none;
+}
+
+.dropdown ul.show {
+	display: block;
+}
+
+.dropdown ul.show li:hover {
+	border: 1px solid black;
+	cursor: pointer;
+}
