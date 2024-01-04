@@ -55,7 +55,7 @@ app.post('/api/users', (req, res) => {
         } else {
           console.log(`user created: ${newUser.id}`)
 
-          res.send(`user created: ${newUser.id}`)
+          res.send(newUser)
         }
       })
     }
